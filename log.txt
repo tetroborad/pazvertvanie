@@ -1,0 +1,15 @@
+Attaching to fastapi-for-students-app, labwork_4_subscription_editions-database-1
+labwork_4_subscription_editions-database-1  | 
+labwork_4_subscription_editions-database-1  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+labwork_4_subscription_editions-database-1  | 
+fastapi-for-students-app exited with code 1
+Attaching to fastapi-for-students-app, labwork_4_subscription_editions-database-1
+labwork_4_subscription_editions-database-1  | 
+labwork_4_subscription_editions-database-1  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+labwork_4_subscription_editions-database-1  | 
+fastapi-for-students-app exited with code 1
+Attaching to fastapi-for-students-app, labwork_4_subscription_editions-database-1
+labwork_4_subscription_editions-database-1  | 
+labwork_4_subscription_editions-database-1  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+labwork_4_subscription_editions-database-1  | 
+fastapi-for-students-app exited with code 1

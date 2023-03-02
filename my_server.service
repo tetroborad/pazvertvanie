@@ -1,0 +1,15 @@
+[Unit]
+description=Gunucorn instance
+after=network.target
+
+[Service]
+User=
+Group=www-data
+Restart=on failure
+RestartSec=5s
+WorkingDirectory=/home/LabWork_4_subscription_editions
+Environment="PATH=/home/LadWork_4_subcription_editions/venv/bin"
+ExecStart=/home/LabWork_4_subcription_editions/venv/bin/gunicorn -w 4 -k uvicorn.workers.UvicornWorkers -b 0.0.0.0:80 src.main:app
+
+[Install]
+WantebBy=multi-user.target
